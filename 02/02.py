@@ -30,6 +30,5 @@ def check_cubes(input_file):
     print(cubes_sum)
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     check_cubes('input.txt')
